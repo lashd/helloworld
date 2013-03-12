@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "helloworld"
   gem.homepage = "http://github.com/lashd/helloworld"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "summary"
+  gem.description = "longer description"
   gem.email = "leon_a_d@yahoo.com"
   gem.authors = ["lashd"]
   # dependencies defined in Gemfile
