@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "helloworld.gemspec",
     "lib/helloworld.rb",
     "test/helper.rb",
     "test/test_helloworld.rb"
